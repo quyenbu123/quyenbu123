@@ -26,7 +26,7 @@
 ## 🌍 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/quyenbu123/" target="_blank"><img src="https://www.linkedin.com/in/quy%E1%BB%81n-cao-%C4%91%C4%83ng-982236333/" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/quy%E1%BB%81n-cao-%C4%91%C4%83ng-982236333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://github.com/quyenbu123" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
 </p>
 
