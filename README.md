@@ -14,5 +14,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenbu123&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=quyenbu123&theme=darkhub" alt="Trophies" />
